@@ -5,7 +5,7 @@ author:
 - "[Hendrik Pfaff](http://hendrik-pfaff.de) (725837)"
 - "Bernhard Preisler (734631)"
 date: "14.07.2017"
-tags: [Vorlesung, Computational Statistics, Zufallszahlen, Zufallsvariablen, Simulation]
+tags: [Vorlesung, Data Mining, Sommersemester 2017]
 output:
   pdf_document:
     toc: true
