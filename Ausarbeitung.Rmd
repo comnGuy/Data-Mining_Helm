@@ -19,17 +19,30 @@ knitr::opts_chunk$set(echo = TRUE, fig.align="center")
 
 \newpage
 # Aufgabe 2
-```{r, echo=FALSE}
+Um ein das beste Modell wählen zu können, wurden drei unterschiedliche Methoden verwendet. Zu Beginn wurde die Methode Best-Sub-Selection betrachtet, danach die Lasso Regression und als letztes die Hauptkomponentenanalyse. Alle drei Verfahren zielen auf eine Reduktion der Dimensionen.
+
+## Best-Sub-Selection
+
+```{r, echo=FALSE, warning=FALSE}
 library(ggplot2)
 score <- c(110.1868, 110.1381, 109.7052, 109.0979, 107.0997, 106.5698, 100.6671, 95.4420, 88.9431, 81.3070)
 number <- c(10,9,8,7,6,5,4,3,2,1)
 df <- data.frame(score = score, number = number)
 
-p <- ggplot(df, aes(x = number, y = score))
-p + geom_point()
-
+ggplot(df, aes(x = number, y = score)) + geom_point() + 
+  ggtitle("Ergebnis Chi-Square") +
+  xlab("Anzahl der Prädiktoren") + ylab("Ergebnis")
 
 ```
+
+
+## Lasso Regression
+
+Die \autoref{fig:lasso_criteria_for_y} zeigt die Bestimmtheitsmaße \textit{AIC}, \textit{AICC}, \textit{SBC}, \textit{Adj R-Sq}. 
+
+![Vier-Felder-Tafel \label{fig:lasso_criteria_for_y}](figures/lasso_criteria_for_y.PNG)
+
+![Vier-Felder-Tafel \label{fig:lasso_model}](figures/lasso_model.PNG)
 
 \newpage
 # Aufgabe 3
