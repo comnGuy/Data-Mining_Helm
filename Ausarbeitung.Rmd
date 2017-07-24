@@ -59,3 +59,10 @@ $$tp\ rate = \frac{top}{p}, fp\ rate = \frac{fp}{n}$$
 Der ROC-Chart (siehe \autoref{fig:roc-graph}) ist ein zweidimensionaler Graph, der auf der y-Achse die Werte der tp rates und auf der x-Achse fp rate visualisiert. Alle Werte eines Klassifikators über der gestrichelten Diagonalen konnten durch das Model positiv klassifiziert werden. Befindet sich ein Klassifikator auf der Diagonalen, könnte die Zuweisung der Werte auch zufällig entstanden sein. D.h. wenn ein Klassifikator auf der Diagonalen liegt, enthält er mit großer Wahrscheinlichkeit keine nützlichen Informationen. Der untere Teil bedeutet, dass der Klassifikator schlechter als zufällig abschneidet. Eine Möglichkeit Informationen aus den unteren Teil zu gewinnen, besteht darin die Klassifikatoren zu negieren. Das übergeordnete Ziel des Graphens ist das Erkennen, welche Klassifikatoren nützlich sind. Besonders gewinnbringend sind die Klassifikatoren in der linken oberen Ecke (0,1).
 
 ![Vier-Felder-Tafel \label{fig:roc-graph}](figures/roc_graph.PNG)
+
+
+# Aufgabe 5_u
+## Logistische Regression
+## Schrittweise Logistische Regression
+
+
