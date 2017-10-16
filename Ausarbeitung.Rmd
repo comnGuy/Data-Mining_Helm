@@ -4,7 +4,7 @@ subtitle: "Vorlesung: Data Mining SS 2017"
 author: 
 - "[Hendrik Pfaff](http://hendrik-pfaff.de) (725837)"
 - "Bernhard Preisler (734631)"
-date: "14.07.2017"
+date: "15.07.2017"
 tags: [Vorlesung, Data Mining, Sommersemester 2017]
 output:
   pdf_document:
