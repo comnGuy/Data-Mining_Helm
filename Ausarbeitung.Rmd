@@ -44,6 +44,9 @@ Die \autoref{fig:lasso_criteria_for_y} zeigt die Bestimmtheitsmaße \textit{AIC}
 
 ![Vier-Felder-Tafel \label{fig:lasso_model}](figures/lasso_model.PNG)
 
+
+## Fazit
+
 \newpage
 # Aufgabe 3
 ## Zusammenfassung – An introduction to ROC analysis
@@ -60,8 +63,49 @@ Der ROC-Chart (siehe \autoref{fig:roc-graph}) ist ein zweidimensionaler Graph, d
 
 ![Vier-Felder-Tafel \label{fig:roc-graph}](figures/roc_graph.PNG)
 
+## Fazit
+
 
 # Aufgabe 5_u
 Zur Bearbeitung der Fallstudie SPESSART, m
+
 ## Logistische Regression
+
 ## Schrittweise Logistische Regression
+
+## Fazit
+
+
+# Aufgabe 7_u
+
+## Fazit
+
+
+# Aufgabe 7_v
+
+## Fazit
+
+
+# Aufgabe 7_w
+
+## Fazit
+
+
+# Aufgabe 8
+
+## Fazit
+
+
+# Aufgabe 9 <!-- 2 out of 3 -->
+
+## Fazit
+
+
+# Aufgabe 10 <!-- 2 out of 3 -->
+
+## Fazit
+
+
+# Aufgabe 11 <!-- 2 out of 3 -->
+
+## Fazit
