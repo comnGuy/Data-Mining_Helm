@@ -62,7 +62,6 @@ Der ROC-Chart (siehe \autoref{fig:roc-graph}) ist ein zweidimensionaler Graph, d
 
 
 # Aufgabe 5_u
+Zur Bearbeitung der Fallstudie SPESSART, m
 ## Logistische Regression
 ## Schrittweise Logistische Regression
-
-
