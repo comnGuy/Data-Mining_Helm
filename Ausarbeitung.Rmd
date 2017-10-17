@@ -109,3 +109,4 @@ Zur Bearbeitung der Fallstudie SPESSART, m
 # Aufgabe 11 <!-- 2 out of 3 -->
 
 ## Fazit
+Alles Takko!
